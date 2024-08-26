@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.25)  27 JUL 2024 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.25)  26 AUG 2024 12:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/artur/Documents/ejemplo/Propuesta_tesis/Propuesta.tex
-(c:/Users/artur/Documents/ejemplo/Propuesta_tesis/Propuesta.tex
+**"c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/Repo Git Hub/Propuesta_tesis/Propuesta.tex"
+(c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/Repo Git Hub/Propuesta_tesis/Propuesta.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (C:\Users\artur\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -449,7 +449,7 @@ LaTeX Info: Redefining \citeyear on input line 735.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count320
 \l__pdf_internal_box=\box103
-) (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
+) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -535,7 +535,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 37.
- (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out) (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out)
+ (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out)
 \@outlinefile=\write3
 \openout3 = `Propuesta.out'.
 
@@ -563,7 +563,7 @@ Overfull \hbox (10.80045pt too wide) in paragraph at lines 20--49
 
 [1
 
-{C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logos latex.PNG>]) (TablasContenido.tex (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.toc
+{C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logos latex.PNG>]) (TablasContenido.tex (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -589,7 +589,7 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 
 
 
-[1]) (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lof
+[1]) (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -598,7 +598,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-[2] (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lot
+[2] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -1059,7 +1059,7 @@ Package pdftex.def Info: Imagenes/Cronograma.png  used on input line 7.
 (pdftex.def)             Requested size: 472.03123pt x 198.34149pt.
 )
 
-[19 <./Imagenes/Cronograma.png>] (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.bbl
+[19 <./Imagenes/Cronograma.png>] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.bbl
 
 [20]
 
@@ -1071,7 +1071,7 @@ Package pdftex.def Info: Imagenes/Cronograma.png  used on input line 7.
 
 [24])
 
-[25] (c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
+[25] (c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1088,14 +1088,14 @@ Package rerunfilecheck Info: File `Propuesta.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15680 strings out of 473904
- 254442 string characters out of 5726600
+ 258232 string characters out of 5726600
  1977908 words of memory out of 5000000
  38154 multiletter control sequences out of 15000+600000
  567107 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1096b,747s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1220b,747s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\artur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.pdf (30 pages, 1060423 bytes).
+Output written on "c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.pdf" (30 pages, 1060423 bytes).
 PDF statistics:
  742 PDF objects out of 1000 (max. 8388607)
  158 named destinations out of 1000 (max. 500000)

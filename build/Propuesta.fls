@@ -1,7 +1,7 @@
-PWD c:\Users\artur\Documents\ejemplo\Propuesta_tesis
+PWD c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis
 INPUT C:\Users\artur\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\Propuesta.tex
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.log
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\Propuesta.tex
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.log
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -157,10 +157,10 @@ INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\apacite\spanish.apc
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\apacite\spanish.apc
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\apacite\spanish.apc
@@ -172,14 +172,14 @@ INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.pdf
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.pdf
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
 INPUT .\Portada.tex
 INPUT .\Portada.tex
 INPUT Portada.tex
@@ -223,20 +223,20 @@ INPUT .\TablasContenido.tex
 INPUT .\TablasContenido.tex
 INPUT TablasContenido.tex
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.toc
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.toc
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.toc
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.toc
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.toc
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.toc
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lof
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lof
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lof
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lof
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lot
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lot
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lot
-OUTPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lof
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lof
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lot
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lot
+OUTPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.lot
 INPUT .\1Introduccion.tex
 INPUT .\1Introduccion.tex
 INPUT 1Introduccion.tex
@@ -321,12 +321,12 @@ INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
 INPUT .\Imagenes\Cronograma.png
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.bbl
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.bbl
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.bbl
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.aux
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
-INPUT c:\Users\artur\Documents\ejemplo\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.bbl
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.bbl
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.bbl
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.aux
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
+INPUT c:\Users\artur\OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico\Documentos\Doctorado\Repo Git Hub\Propuesta_tesis\build\Propuesta.out
 INPUT C:\Users\artur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\artur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\artur\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

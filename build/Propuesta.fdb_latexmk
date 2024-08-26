@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex build/Propuesta"] 1722102995.17978 "build/Propuesta.aux" "build/Propuesta.bbl" "build/Propuesta" 1722103000.41009 0
+["bibtex build/Propuesta"] 1722102995.17978 "build/Propuesta.aux" "build/Propuesta.bbl" "build/Propuesta" 1724697249.12297 0
   "./bibliografia.bib" 1722102337 27924 9f7aad78f189fe9d9017cb8305d4da89 ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/apalike.bst" 1291972791 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "build/Propuesta.aux" 1722102999 16554 de4efc9e2a16daf567d3b3d7e18c4db6 "pdflatex"
+  "build/Propuesta.aux" 1724697247 16554 de4efc9e2a16daf567d3b3d7e18c4db6 "pdflatex"
   (generated)
   "build/Propuesta.bbl"
   "build/Propuesta.blg"
   (rewritten before read)
-["pdflatex"] 1722102995.66919 "c:/Users/artur/Documents/ejemplo/Propuesta_tesis/Propuesta.tex" "build/Propuesta.pdf" "Propuesta" 1722103000.41128 0
+["pdflatex"] 1724697242.28507 "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/Repo Git Hub/Propuesta_tesis/Propuesta.tex" "build/Propuesta.pdf" "Propuesta" 1724697249.12387 0
   "1Introduccion.tex" 1722060896 4053 781c7e7c095dd7535254b10ea1c5eeea ""
   "2MarcoTeorico.tex" 1722102267 17848 b0d57e88d15773b88866031b25b581ac ""
-  "3EstadoDelArte.tex" 1722102682 28106 a5d2b6b60343edbbb92fd9fec74d467f ""
+  "3EstadoDelArte.tex" 1724697241 28139 62fe89405f10ca05cdf5b0467f54d0ea ""
   "4PropuestaDeTesis.tex" 1722102863 4003 1215ae6acece6352e70f59c8e6a421ea ""
   "5Cronograma.tex" 1722102949 366 57c3f412cd75b26f24422919bc6e040a ""
-  "C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1721940162 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/artur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1722146609 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/artur/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1719518032 16968 038ddf9657607043541bfb2067e1acaa ""
   "C:/Users/artur/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1721926768 24264717 366a7c77d345755ed0e57a26128a0489 ""
   "C:/Users/artur/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
@@ -142,13 +142,13 @@
   "Portada.tex" 1722093688 1809 9d0e3e3b653de3d8e92c4c4545d1f6cf ""
   "Propuesta.tex" 1722102989 2736 5c3f4ed9c5281436e57bade2726043bf ""
   "TablasContenido.tex" 1722060419 99 702acab88c5a5c5b36b3d74280f35a57 ""
-  "build/Propuesta.aux" 1722102999 16554 de4efc9e2a16daf567d3b3d7e18c4db6 "pdflatex"
+  "build/Propuesta.aux" 1724697247 16554 de4efc9e2a16daf567d3b3d7e18c4db6 "pdflatex"
   "build/Propuesta.bbl" 1722102995 22040 d5d7348086a3d74aef2851ef4640c3ec "bibtex build/Propuesta"
-  "build/Propuesta.lof" 1722102999 1284 54eb80b12655c52e62570c9e42cc3b89 "pdflatex"
-  "build/Propuesta.lot" 1722102999 1085 a38e029dac049cf0edd2c16fcf856117 "pdflatex"
-  "build/Propuesta.out" 1722102999 4935 e58082e715dbd150431f591eb935c07c "pdflatex"
-  "build/Propuesta.toc" 1722102999 2642 983eafde0f5eff2abb6a0a689068b0af "pdflatex"
-  "c:/Users/artur/Documents/ejemplo/Propuesta_tesis/Propuesta.tex" 1722102989 2736 5c3f4ed9c5281436e57bade2726043bf ""
+  "build/Propuesta.lof" 1724697247 1284 54eb80b12655c52e62570c9e42cc3b89 "pdflatex"
+  "build/Propuesta.lot" 1724697247 1085 a38e029dac049cf0edd2c16fcf856117 "pdflatex"
+  "build/Propuesta.out" 1724697247 4935 e58082e715dbd150431f591eb935c07c "pdflatex"
+  "build/Propuesta.toc" 1724697247 2642 983eafde0f5eff2abb6a0a689068b0af "pdflatex"
+  "c:/Users/artur/OneDrive - Tecnológico Nacional de México - Centro Nacional de Investigación y Desarrollo Tecnológico/Documentos/Doctorado/Repo Git Hub/Propuesta_tesis/Propuesta.tex" 1722102989 2736 5c3f4ed9c5281436e57bade2726043bf ""
   "logos latex.PNG" 1722060139 46823 a757b776c24ed05917bf54b498035382 ""
   (generated)
   "build/Propuesta.aux"
