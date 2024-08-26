@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Índice de figuras}{\es@scroman {ii}}{section*.2}%
+\contentsline {section}{Índice de tablas}{\es@scroman {iii}}{section*.3}%
+\contentsline {section}{Nomenclatura}{\es@scroman {iv}}{section*.3}%
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Marco teórico}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Datos omicos}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Tipos de ciencias ómicas}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Representación de datos ómicos}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Redes neuronales artificiales}{4}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Componentes de la red neuronal}{4}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Funciones de activación}{5}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Inteligencia artificial}{6}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Aprendizaje Automático}{6}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Aprendizaje Profundo}{7}{subsubsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.6}Red Neuronal Convolucional}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Red Neuronal Recurrente}{9}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Estado del arte}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datos ómicos}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Análisis de datos omicos}{11}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Bases de datos ómicos}{12}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Aprendizaje profundo}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Aprendizaje profundo en ómica}{13}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {4}Propuesta de tesis}{17}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Objetivo general}{17}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Objetivos específicos}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Antecedentes}{18}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Planteamiento del problema}{18}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Pregunta de investigación}{18}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Justificación}{18}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Cronograma de actividades}{19}{section.5}%

@@ -1,0 +1,103 @@
+\documentclass[12pt,onecolumn,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{setspace}
+\usepackage{apacite}
+
+\usepackage{array} %alineacion vertical p(top) y m(middle) y b(bottom)
+\usepackage{soul}
+\usepackage{multicol}
+
+\usepackage[top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm,asymmetric]{geometry}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{color}
+
+\usepackage{fancyhdr}%todo esto para el encabezado
+\fancyhf{}
+
+\cfoot{\thepage}
+
+\renewcommand{\footrulewidth}{1.7pt}
+\renewcommand{\headrulewidth}{1.7pt}
+
+\usepackage{hyperref}%Genera hipervinculos
+\hypersetup{colorlinks,citecolor=black,filecolor=white,linkcolor=black,urlcolor=blue}%esto para cambiar el color de los vinculos
+%\pagestyle{fancy} %Franjas arriba y abajo del documento
+\usepackage{subcaption}%genera subFiguras
+\usepackage{enumerate} %funciona para la numeracion de las ecuaciones Tablas y Figuras
+\usepackage[shortlabels]{enumitem}
+\usepackage{amsmath,amssymb,amsfonts} %para la numeracion de las ecuaciones Tablas y Figuras por seccion 
+
+\usepackage{natbib} %libreria para el citado de libros, articulos 
+
+\numberwithin{equation}{section} %enumeracion de las ecuaciones de acuerdo a la secccion 	
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+\begin{document}
+\input{Portada.tex}
+\input{TablasContenido.tex}
+
+\newpage
+\listoffigures
+\addcontentsline{toc}{section}{Índice de figuras}
+
+\newpage
+\listoftables
+\addcontentsline{toc}{section}{Índice de tablas}
+
+\newpage
+\addcontentsline{toc}{section}{Nomenclatura}
+\textbf{\Large{Nomenclatura}}
+
+\begin{table}[h]
+    \centering
+    \caption{Siglas y acrónimos}
+    \vspace{0.3cm}
+    \begin{tabular}{
+    >{\centering\arraybackslash}m{3cm}
+    >{\centering\arraybackslash}m{12cm}}
+
+\hline
+
+        \textbf{Siglas} & 
+        \textbf{Descripción}\\
+
+\hline\hline
+\\[0.2cm]
+    IA & Inteligencia Artificial
+\\[0.2cm]
+
+   DL & Deep Learning
+\\[0.2cm]
+
+   ML & Machine Learning 
+\\[0.2cm]
+
+   CNN & Convolutional Neuronal Network
+\\[0.2cm]
+   RNN & Recurrent Neuronal Network 
+\\[0.2cm]
+   NGS & Next Generation Sequencing 
+\\[0.2cm]
+   ANN & Artificial Neuronal Network 
+\\[0.2cm]
+
+\hline
+    \end{tabular}
+\end{table}
+\newpage
+
+\setcounter{page}{1} %se reinicia el contador de la páginas después de la Tabla de contenido
+\pagenumbering{arabic}
+
+\input{1Introduccion.tex}
+\input{2MarcoTeorico.tex}
+\input{3EstadoDelArte.tex}
+\input{4PropuestaDeTesis.tex}
+\input{5Cronograma.tex}
+\newpage
+\bibliographystyle{apalike} %eslito del citado %apacite %plain %apalike
+\bibliography{bibliografia.bib} %archivo de las referencias
+
+\end{document}

@@ -1,0 +1,490 @@
+\begin{thebibliography}{}
+
+\bibitem[Albaradei et~al., 2021]{albaradei2021machine}
+Albaradei, S., Thafar, M., Alsaedi, A., Van~Neste, C., Gojobori, T., Essack,
+  M., and Gao, X. (2021).
+\newblock Machine learning and deep learning methods that use omics data for
+  metastasis prediction.
+\newblock {\em Computational and structural biotechnology journal},
+  19:5008--5018.
+
+\bibitem[Aliper et~al., 2016]{aliper2016deep}
+Aliper, A., Plis, S., Artemov, A., Ulloa, A., Mamoshina, P., and Zhavoronkov,
+  A. (2016).
+\newblock Deep learning applications for predicting pharmacological properties
+  of drugs and drug repurposing using transcriptomic data.
+\newblock {\em Molecular pharmaceutics}, 13(7):2524--2530.
+
+\bibitem[Bhat et~al., 2016]{bhat2016deepcancer}
+Bhat, R.~R., Viswanath, V., and Li, X. (2016).
+\newblock Deepcancer: Detecting cancer through gene expressions via deep
+  generative learning.
+\newblock {\em arXiv preprint arXiv:1612.03211}.
+
+\bibitem[Carlomagno et~al., 2017]{carlomagno2017diagnostic}
+Carlomagno, N., Incollingo, P., Tammaro, V., Peluso, G., Rupealta, N.,
+  Chiacchio, G., Sandoval~Sotelo, M.~L., Minieri, G., Pisani, A., Riccio, E.,
+  et~al. (2017).
+\newblock Diagnostic, predictive, prognostic, and therapeutic molecular
+  biomarkers in third millennium: a breakthrough in gastric cancer.
+\newblock {\em BioMed research international}, 2017.
+
+\bibitem[Chae et~al., 2018]{chae2018predicting}
+Chae, S., Kwon, S., and Lee, D. (2018).
+\newblock Predicting infectious disease using deep learning and big data.
+\newblock {\em International journal of environmental research and public
+  health}, 15(8):1596.
+
+\bibitem[Chai et~al., 2021]{chai2021integrating}
+Chai, H., Zhou, X., Zhang, Z., Rao, J., Zhao, H., and Yang, Y. (2021).
+\newblock Integrating multi-omics data through deep learning for accurate
+  cancer prognosis prediction.
+\newblock {\em Computers in biology and medicine}, 134:104481.
+
+\bibitem[Chaudhary et~al., 2018]{chaudhary2018deep}
+Chaudhary, K., Poirion, O.~B., Lu, L., and Garmire, L.~X. (2018).
+\newblock Deep learning--based multi-omics integration robustly predicts
+  survival in liver cancer.
+\newblock {\em Clinical Cancer Research}, 24(6):1248--1259.
+
+\bibitem[Chetlur et~al., 2014]{chetlur2014cudnn}
+Chetlur, S., Woolley, C., Vandermersch, P., Cohen, J., Tran, J., Catanzaro, B.,
+  and Shelhamer, E. (2014).
+\newblock cudnn: Efficient primitives for deep learning.
+\newblock {\em arXiv preprint arXiv:1410.0759}.
+
+\bibitem[Chuang et~al., 2021]{chuang2021convolutional}
+Chuang, Y.-H., Huang, S.-H., Hung, T.-M., Lin, X.-Y., Lee, J.-Y., Lai, W.-S.,
+  and Yang, J.-M. (2021).
+\newblock Convolutional neural network for human cancer types prediction by
+  integrating protein interaction networks and omics data.
+\newblock {\em Scientific reports}, 11(1):20691.
+
+\bibitem[Cuperus et~al., 2017]{cuperus2017deep}
+Cuperus, J.~T., Groves, B., Kuchina, A., Rosenberg, A.~B., Jojic, N., Fields,
+  S., and Seelig, G. (2017).
+\newblock Deep learning of the regulatory grammar of yeast 5 untranslated
+  regions from 500,000 random sequences.
+\newblock {\em Genome research}, 27(12):2015--2024.
+
+\bibitem[Davis and Shanley, 2017]{davis2017missing}
+Davis, M. and Shanley, T. (2017).
+\newblock The missing-omes: Proposing social and environmental nomenclature in
+  precision medicine.
+\newblock {\em Clinical and translational science}, 10(2):64.
+
+\bibitem[Dubey et~al., 2022]{dubey2022activation}
+Dubey, S.~R., Singh, S.~K., and Chaudhuri, B.~B. (2022).
+\newblock Activation functions in deep learning: A comprehensive survey and
+  benchmark.
+\newblock {\em Neurocomputing}, 503:92--108.
+
+\bibitem[Eraslan et~al., 2019]{eraslan2019deep}
+Eraslan, G., Avsec, {\v{Z}}., Gagneur, J., and Theis, F.~J. (2019).
+\newblock Deep learning: new computational modelling techniques for genomics.
+\newblock {\em Nature Reviews Genetics}, 20(7):389--403.
+
+\bibitem[Erda{\c{s}} et~al., 2021]{erdacs2021neurodegenerative}
+Erda{\c{s}}, {\c{C}}.~B., S{\"u}mer, E., and Kibaro{\u{g}}lu, S. (2021).
+\newblock Neurodegenerative disease detection and severity prediction using
+  deep learning approaches.
+\newblock {\em Biomedical Signal Processing and Control}, 70:103069.
+
+\bibitem[Erfanian et~al., 2023]{erfanian2023deep}
+Erfanian, N., Heydari, A.~A., Feriz, A.~M., Ia{\~n}ez, P., Derakhshani, A.,
+  Ghasemigol, M., Farahpour, M., Razavi, S.~M., Nasseri, S., Safarpour, H.,
+  et~al. (2023).
+\newblock Deep learning applications in single-cell genomics and
+  transcriptomics data analysis.
+\newblock {\em Biomedicine \& Pharmacotherapy}, 165:115077.
+
+\bibitem[Franco et~al., 2021]{franco2021performance}
+Franco, E.~F., Rana, P., Cruz, A., Calderon, V.~V., Azevedo, V., Ramos, R.~T.,
+  and Ghosh, P. (2021).
+\newblock Performance comparison of deep learning autoencoders for cancer
+  subtype detection using multi-omics data.
+\newblock {\em Cancers}, 13(9):2013.
+
+\bibitem[G{\'e}ron, 2020]{geron2020aprende}
+G{\'e}ron, A. (2020).
+\newblock Aprende machine learning con scikit-learn, keras y tensorflow.
+\newblock {\em Espa{\~n}a: Anaya}.
+
+\bibitem[Gong et~al., 2023]{gong2023multi}
+Gong, P., Cheng, L., Zhang, Z., Meng, A., Li, E., Chen, J., and Zhang, L.
+  (2023).
+\newblock Multi-omics integration method based on attention deep learning
+  network for biomedical data classification.
+\newblock {\em Computer Methods and Programs in Biomedicine}, 231:107377.
+
+\bibitem[Hagan et~al., 2014]{NeuronalNet2014}
+Hagan, M., Demuth, H., Beale, M., and De~Jes{\'u}s, O. (2014).
+\newblock {\em Neuronal Network Design}.
+\newblock Martin Hagan, 2{nd} edition.
+
+\bibitem[Hasin et~al., 2017]{hasin2017multi}
+Hasin, Y., Seldin, M., and Lusis, A. (2017).
+\newblock Multi-omics approaches to disease.
+\newblock {\em Genome biology}, 18:1--15.
+
+\bibitem[Heffernan et~al., 2015]{heffernan2015improving}
+Heffernan, R., Paliwal, K., Lyons, J., Dehzangi, A., Sharma, A., Wang, J.,
+  Sattar, A., Yang, Y., and Zhou, Y. (2015).
+\newblock Improving prediction of secondary structure, local backbone angles
+  and solvent accessible surface area of proteins by iterative deep learning.
+\newblock {\em Scientific reports}, 5(1):11476.
+
+\bibitem[Huang et~al., 2023]{huang2023deep}
+Huang, L., Song, M., Shen, H., Hong, H., Gong, P., Deng, H.-W., and Zhang, C.
+  (2023).
+\newblock Deep learning methods for omics data imputation.
+\newblock {\em Biology}, 12(10):1313.
+
+\bibitem[Huang, 2015]{huang2015microsoft}
+Huang, X. (2015).
+\newblock Microsoft computational network toolkit offers most efficient
+  distributed deep learning computational performance.
+
+\bibitem[Javier et~al., 2019]{institute}
+Javier, B., Anna, G., and Núria, M. (2019).
+\newblock {Fundación Instituto Roche}.
+\newblock Accessed Mayo 15, 2024.
+
+\bibitem[Kim and Tagkopoulos, 2018]{kim2018data}
+Kim, M. and Tagkopoulos, I. (2018).
+\newblock Data integration and predictive modeling methods for multi-omics
+  datasets.
+\newblock {\em Molecular omics}, 14(1):8--25.
+
+\bibitem[Koh et~al., 2017]{koh2017denoising}
+Koh, P.~W., Pierson, E., and Kundaje, A. (2017).
+\newblock Denoising genome-wide histone chip-seq with convolutional neural
+  networks.
+\newblock {\em Bioinformatics}, 33(14):i225--i233.
+
+\bibitem[Krassowski et~al., 2020]{krassowski2020state}
+Krassowski, M., Das, V., Sahu, S.~K., and Misra, B.~B. (2020).
+\newblock State of the field in multi-omics research: from computational needs
+  to data mining and sharing.
+\newblock {\em Frontiers in Genetics}, 11:610798.
+
+\bibitem[Kulmanov et~al., 2018]{kulmanov2018deepgo}
+Kulmanov, M., Khan, M.~A., and Hoehndorf, R. (2018).
+\newblock Deepgo: predicting protein functions from sequence and interactions
+  using a deep ontology-aware classifier.
+\newblock {\em Bioinformatics}, 34(4):660--668.
+
+\bibitem[LeCun et~al., 1989]{lecun1989backpropagation}
+LeCun, Y., Boser, B., Denker, J.~S., Henderson, D., Howard, R.~E., Hubbard, W.,
+  and Jackel, L.~D. (1989).
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock {\em Neural computation}, 1(4):541--551.
+
+\bibitem[Lee et~al., 2015]{lee2015dna}
+Lee, B., Lee, T., Na, B., and Yoon, S. (2015).
+\newblock Dna-level splice junction prediction using deep recurrent neural
+  networks.
+\newblock {\em arXiv preprint arXiv:1512.05135}.
+
+\bibitem[Leng et~al., 2022]{leng2022benchmark}
+Leng, D., Zheng, L., Wen, Y., Zhang, Y., Wu, L., Wang, J., Wang, M., Zhang, Z.,
+  He, S., and Bo, X. (2022).
+\newblock A benchmark study of deep learning-based multi-omics data fusion
+  methods for cancer.
+\newblock {\em Genome biology}, 23(1):171.
+
+\bibitem[Li et~al., 2017]{li2017deep}
+Li, H., Hou, J., Adhikari, B., Lyu, Q., and Cheng, J. (2017).
+\newblock Deep learning methods for protein torsion angle prediction.
+\newblock {\em BMC bioinformatics}, 18:1--13.
+
+\bibitem[Li et~al., 2024]{li2024avbae}
+Li, M., Guo, H., Wang, K., Kang, C., Yin, Y., and Zhang, H. (2024).
+\newblock Avbae-modfr: A novel deep learning framework of embedding and feature
+  selection on multi-omics data for pan-cancer classification.
+\newblock {\em Computers in Biology and Medicine}, page 108614.
+
+\bibitem[Li et~al., 2020]{li2020deep}
+Li, T., Tong, W., Roberts, R., Liu, Z., and Thakkar, S. (2020).
+\newblock Deep learning on high-throughput transcriptomics to predict
+  drug-induced liver injury.
+\newblock {\em Frontiers in bioengineering and biotechnology}, 8:562677.
+
+\bibitem[Li et~al., 2022a]{li2022machine}
+Li, Y., Wu, X., Yang, P., Jiang, G., and Luo, Y. (2022a).
+\newblock Machine learning for lung cancer diagnosis, treatment, and prognosis.
+\newblock {\em Genomics, Proteomics and Bioinformatics}, 20(5):850--866.
+
+\bibitem[Li et~al., 2022b]{li2022identification}
+Li, Z., Ma, Z., Zhou, Q., Wang, S., Yan, Q., Zhuang, H., Zhou, Z., Liu, C., Wu,
+  Z., Zhao, J., et~al. (2022b).
+\newblock Identification by genetic algorithm optimized back propagation
+  artificial neural network and validation of a four-gene signature for
+  diagnosis and prognosis of pancreatic cancer.
+\newblock {\em Heliyon}, 8(11).
+
+\bibitem[Liang et~al., 2014]{liang2014integrative}
+Liang, M., Li, Z., Chen, T., and Zeng, J. (2014).
+\newblock Integrative data analysis of multi-platform cancer data with a
+  multimodal deep learning approach.
+\newblock {\em IEEE/ACM transactions on computational biology and
+  bioinformatics}, 12(4):928--937.
+
+\bibitem[Liu et~al., 2020]{liu2020application}
+Liu, J., Li, J., Wang, H., and Yan, J. (2020).
+\newblock Application of deep learning in genomics.
+\newblock {\em Science China Life Sciences}, 63:1860--1878.
+
+\bibitem[Ma and Zhang, 2018]{ma2018omicsmapnet}
+Ma, S. and Zhang, Z. (2018).
+\newblock Omicsmapnet: Transforming omics data to take advantage of deep
+  convolutional neural network for discovery.
+\newblock {\em arXiv preprint arXiv:1804.05283}.
+
+\bibitem[Mamoshina et~al., 2016]{mamoshina2016applications}
+Mamoshina, P., Vieira, A., Putin, E., and Zhavoronkov, A. (2016).
+\newblock Applications of deep learning in biomedicine.
+\newblock {\em Molecular pharmaceutics}, 13(5):1445--1454.
+
+\bibitem[Mathema et~al., 2023]{mathema2023deep}
+Mathema, V.~B., Sen, P., Lamichhane, S., Ore{\v{s}}i{\v{c}}, M., and Khoomrung,
+  S. (2023).
+\newblock Deep learning facilitates multi-data type analysis and predictive
+  biomarker discovery in cancer precision medicine.
+\newblock {\em Computational and Structural Biotechnology Journal},
+  21:1372--1382.
+
+\bibitem[Min et~al., 2017]{min2017predicting}
+Min, X., Zeng, W., Chen, S., Chen, N., Chen, T., and Jiang, R. (2017).
+\newblock Predicting enhancers with deep convolutional neural networks.
+\newblock {\em BMC bioinformatics}, 18:35--46.
+
+\bibitem[Mitchell, 1997]{mitchell1997does}
+Mitchell, T.~M. (1997).
+\newblock Does machine learning really work?
+\newblock {\em AI magazine}, 18(3):11--11.
+
+\bibitem[Munir et~al., 2019]{munir2019cancer}
+Munir, K., Elahi, H., Ayub, A., Frezza, F., and Rizzi, A. (2019).
+\newblock Cancer diagnosis using deep learning: a bibliographic review.
+\newblock {\em Cancers}, 11(9):1235.
+
+\bibitem[Pan and Shen, 2017]{pan2017rna}
+Pan, X. and Shen, H.-B. (2017).
+\newblock Rna-protein binding motifs mining with a new hybrid deep learning
+  based cross-domain knowledge integration approach.
+\newblock {\em BMC bioinformatics}, 18:1--14.
+
+\bibitem[Pasha et~al., 2020]{pasha2020cardiovascular}
+Pasha, S.~N., Ramesh, D., Mohmmad, S., Harshavardhan, A., et~al. (2020).
+\newblock Cardiovascular disease prediction using deep learning techniques.
+\newblock 981(2):022006.
+
+\bibitem[Poirion et~al., 2021]{poirion2021deepprog}
+Poirion, O.~B., Jing, Z., Chaudhary, K., Huang, S., and Garmire, L.~X. (2021).
+\newblock Deepprog: an ensemble of deep-learning and machine-learning models
+  for prognosis prediction using multi-omics data.
+\newblock {\em Genome medicine}, 13:1--15.
+
+\bibitem[Quang and Xie, 2016]{quang2016danq}
+Quang, D. and Xie, X. (2016).
+\newblock Danq: a hybrid convolutional and recurrent deep neural network for
+  quantifying the function of dna sequences.
+\newblock {\em Nucleic acids research}, 44(11):e107--e107.
+
+\bibitem[Quang and Xie, 2019]{quang2019factornet}
+Quang, D. and Xie, X. (2019).
+\newblock Factornet: a deep learning framework for predicting cell type
+  specific transcription factor binding from nucleotide-resolution sequential
+  data.
+\newblock {\em Methods}, 166:40--47.
+
+\bibitem[Rav{\`\i} et~al., 2016]{ravi2016deep}
+Rav{\`\i}, D., Wong, C., Deligianni, F., Berthelot, M., Andreu-Perez, J., Lo,
+  B., and Yang, G.-Z. (2016).
+\newblock Deep learning for health informatics.
+\newblock {\em IEEE journal of biomedical and health informatics}, 21(1):4--21.
+
+\bibitem[Raza and Alam, 2016]{raza2016recurrent}
+Raza, K. and Alam, M. (2016).
+\newblock Recurrent neural network based hybrid model for reconstructing gene
+  regulatory network.
+\newblock {\em Computational biology and chemistry}, 64:322--334.
+
+\bibitem[Reel et~al., 2021]{reel2021using}
+Reel, P.~S., Reel, S., Pearson, E., Trucco, E., and Jefferson, E. (2021).
+\newblock Using machine learning approaches for multi-omics data analysis: A
+  review.
+\newblock {\em Biotechnology advances}, 49:107739.
+
+\bibitem[Rosenblatt, 1958]{rosenblatt1958perceptron}
+Rosenblatt, F. (1958).
+\newblock The perceptron: a probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological review}, 65(6):386.
+
+\bibitem[Rouhiainen, 2018]{rouhiainen2018inteligencia}
+Rouhiainen, L. (2018).
+\newblock Inteligencia artificial.
+\newblock {\em Madrid: Alienta Editorial}, pages 20--21.
+
+\bibitem[Sarmiento-Ramos, 2020]{sarmiento2020aplicaciones}
+Sarmiento-Ramos, J.~L. (2020).
+\newblock Aplicaciones de las redes neuronales y el deep learning a la
+  ingenier{\'\i}a biom{\'e}dica.
+\newblock {\em Revista UIS Ingenier{\'\i}as}, 19(4):1--18.
+
+\bibitem[Schmidhuber, 2015]{schmidhuber2015deep}
+Schmidhuber, J. (2015).
+\newblock Deep learning in neural networks: An overview.
+\newblock {\em Neural networks}, 61:85--117.
+
+\bibitem[Shi et~al., 2016]{shi2016benchmarking}
+Shi, S., Wang, Q., Xu, P., and Chu, X. (2016).
+\newblock Benchmarking state-of-the-art deep learning software tools.
+\newblock In {\em 2016 7th International Conference on Cloud Computing and Big
+  Data (CCBD)}, pages 99--104. IEEE.
+
+\bibitem[Shinde and Shah, 2018]{shinde2018review}
+Shinde, P.~P. and Shah, S. (2018).
+\newblock A review of machine learning and deep learning applications.
+\newblock In {\em 2018 Fourth international conference on computing
+  communication control and automation (ICCUBEA)}, pages 1--6. IEEE.
+
+\bibitem[Singh et~al., 2019]{singh2019predicting}
+Singh, S., Yang, Y., P{\'o}czos, B., and Ma, J. (2019).
+\newblock Predicting enhancer-promoter interaction from genomic sequence with
+  deep neural networks.
+\newblock {\em Quantitative Biology}, 7(2):122--137.
+
+\bibitem[Spencer et~al., 2014]{spencer2014deep}
+Spencer, M., Eickholt, J., and Cheng, J. (2014).
+\newblock A deep learning network approach to ab initio protein secondary
+  structure prediction.
+\newblock {\em IEEE/ACM transactions on computational biology and
+  bioinformatics}, 12(1):103--112.
+
+\bibitem[Stahl et~al., 2017]{stahl2017epsilon}
+Stahl, K., Schneider, M., and Brock, O. (2017).
+\newblock Epsilon-cp: using deep learning to combine information from multiple
+  sources for protein contact prediction.
+\newblock {\em BMC bioinformatics}, 18:1--11.
+
+\bibitem[Strimbu and Tavel, 2010]{strimbu2010biomarkers}
+Strimbu, K. and Tavel, J.~A. (2010).
+\newblock What are biomarkers?
+\newblock {\em Current Opinion in HIV and AIDS}, 5(6):463--466.
+
+\bibitem[Talukder et~al., 2021]{talukder2021interpretation}
+Talukder, A., Barham, C., Li, X., and Hu, H. (2021).
+\newblock Interpretation of deep learning in genomics and epigenomics.
+\newblock {\em Briefings in Bioinformatics}, 22(3):bbaa177.
+
+\bibitem[Tong et~al., 2020]{tong2020deep}
+Tong, L., Mitchel, J., Chatlin, K., and Wang, M.~D. (2020).
+\newblock Deep learning based feature-level integration of multi-omics data for
+  breast cancer patients survival analysis.
+\newblock {\em BMC medical informatics and decision making}, 20:1--12.
+
+\bibitem[Umarov and Solovyev, 2017]{umarov2017recognition}
+Umarov, R.~K. and Solovyev, V.~V. (2017).
+\newblock Recognition of prokaryotic and eukaryotic promoters using
+  convolutional deep learning neural networks.
+\newblock {\em PloS one}, 12(2):e0171410.
+
+\bibitem[Van~Eyk and Snyder, 2018]{van2018precision}
+Van~Eyk, J.~E. and Snyder, M.~P. (2018).
+\newblock Precision medicine: role of proteomics in changing clinical
+  management and care.
+\newblock {\em Journal of proteome research}, 18(1):1--6.
+
+\bibitem[Vieira et~al., 2020]{vieira2020main}
+Vieira, S., Pinaya, W. H.~L., and Mechelli, A. (2020).
+\newblock Main concepts in machine learning.
+\newblock In {\em Machine learning}, pages 21--44. Elsevier.
+
+\bibitem[Wang et~al., 2017a]{wang2017musitedeep}
+Wang, D., Zeng, S., Xu, C., Qiu, W., Liang, Y., Joshi, T., and Xu, D. (2017a).
+\newblock Musitedeep: a deep-learning framework for general and kinase-specific
+  phosphorylation site prediction.
+\newblock {\em Bioinformatics}, 33(24):3909--3916.
+
+\bibitem[Wang et~al., 2017b]{wang2017detecting}
+Wang, J., Ding, H., Bidgoli, F.~A., Zhou, B., Iribarren, C., Molloi, S., and
+  Baldi, P. (2017b).
+\newblock Detecting cardiovascular disease from mammograms with deep learning.
+\newblock {\em IEEE transactions on medical imaging}, 36(5):1172--1181.
+
+\bibitem[Withnell et~al., 2021]{withnell2021xomivae}
+Withnell, E., Zhang, X., Sun, K., and Guo, Y. (2021).
+\newblock Xomivae: an interpretable deep learning model for cancer
+  classification using high-dimensional omics data.
+\newblock {\em Briefings in bioinformatics}, 22(6):bbab315.
+
+\bibitem[Xu et~al., 2017]{xu2017deep}
+Xu, Y., Wang, Y., Luo, J., Zhao, W., and Zhou, X. (2017).
+\newblock Deep learning of the splicing (epi) genetic code reveals a novel
+  candidate mechanism linking histone modifications to esc fate decision.
+\newblock {\em Nucleic acids research}, 45(21):12100--12112.
+
+\bibitem[Young et~al., 2017]{young2017unsupervised}
+Young, J.~D., Cai, C., and Lu, X. (2017).
+\newblock Unsupervised deep learning reveals prognostically relevant subtypes
+  of glioblastoma.
+\newblock {\em BMC bioinformatics}, 18:5--17.
+
+\bibitem[Yousefi et~al., 2017]{yousefi2017predicting}
+Yousefi, S., Amrollahi, F., Amgad, M., Dong, C., Lewis, J.~E., Song, C.,
+  Gutman, D.~A., Halani, S.~H., Velazquez~Vega, J.~E., Brat, D.~J., et~al.
+  (2017).
+\newblock Predicting clinical outcomes from large scale cancer genomic profiles
+  with deep survival models.
+\newblock {\em Scientific reports}, 7(1):1--11.
+
+\bibitem[Yu et~al., 2019]{yu2019architectures}
+Yu, H., Samuels, D.~C., Zhao, Y.-y., and Guo, Y. (2019).
+\newblock Architectures and accuracy of artificial neural network for disease
+  classification from omics data.
+\newblock {\em BMC genomics}, 20:1--12.
+
+\bibitem[Yu et~al., 2018]{yu2018drug}
+Yu, L., Sun, X., Tian, S., Shi, X., and Yan, Y. (2018).
+\newblock Drug and nondrug classification based on deep learning with various
+  feature selection strategies.
+\newblock {\em Current Bioinformatics}, 13(3):253--259.
+
+\bibitem[Zeng et~al., 2016]{zeng2016convolutional}
+Zeng, H., Edwards, M.~D., Liu, G., and Gifford, D.~K. (2016).
+\newblock Convolutional neural network architectures for predicting
+  dna--protein binding.
+\newblock {\em Bioinformatics}, 32(12):i121--i127.
+
+\bibitem[Zhang et~al., 2017a]{zhang2017titer}
+Zhang, S., Hu, H., Jiang, T., Zhang, L., and Zeng, J. (2017a).
+\newblock Titer: predicting translation initiation sites by deep learning.
+\newblock {\em Bioinformatics}, 33(14):i234--i242.
+
+\bibitem[Zhang et~al., 2017b]{zhang2017sequence}
+Zhang, Y.-z., Yamaguchi, R., Imoto, S., and Miyano, S. (2017b).
+\newblock Sequence-specific bias correction for rna-seq data using recurrent
+  neural networks.
+\newblock {\em BMC genomics}, 18:1--6.
+
+\bibitem[Zhang et~al., 2019]{zhang2019deep}
+Zhang, Z., Zhao, Y., Liao, X., Shi, W., Li, K., Zou, Q., and Peng, S. (2019).
+\newblock Deep learning in omics: a survey and guideline.
+\newblock {\em Briefings in functional genomics}, 18(1):41--57.
+
+\bibitem[Zhao et~al., 2014]{zhao2014lipidomics}
+Zhao, Y.-Y., Cheng, X.-l., and Lin, R.-C. (2014).
+\newblock Lipidomics applications for discovering biomarkers of diseases in
+  clinical chemistry.
+\newblock {\em International review of cell and molecular biology}, 313:1--26.
+
+\bibitem[Zhou and Troyanskaya, 2015]{zhou2015predicting}
+Zhou, J. and Troyanskaya, O.~G. (2015).
+\newblock Predicting effects of noncoding variants with deep learning--based
+  sequence model.
+\newblock {\em Nature methods}, 12(10):931--934.
+
+\end{thebibliography}
