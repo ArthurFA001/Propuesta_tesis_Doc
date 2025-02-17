@@ -1,0 +1,1681 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=latex 2024.9.12)  12 SEP 2024 12:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Propuesta.tex
+(Propuesta.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
+(/usr/local/share/miktex-texmf/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(/usr/local/share/miktex-texmf/tex/latex/base/size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+Package: babel 2024/08/29 v24.9 The Babel package
+\babel@savecnt=\count268
+\U@D=\dimen142
+\l@unhyphenated=\language79
+
+(/usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count269
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/arthur1/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count270
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/usr/local/share/miktex-texmf/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(/home/arthur1/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/home/arthur1/.miktex/texmfs/install/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count271
+\bibleftmargin=\skip51
+\bibindent=\skip52
+\bibparsep=\skip53
+\bibitemsep=\skip54
+\biblabelsep=\skip55
+)
+(/usr/local/share/miktex-texmf/tex/latex/tools/array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box52
+\extrarowheight=\dimen144
+\NC@list=\toks20
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box53
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(/home/arthur1/.miktex/texmfs/install/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks21
+\SOUL@lasttoken=\toks22
+\SOUL@syllable=\toks23
+\SOUL@cmds=\toks24
+\SOUL@buffer=\toks25
+\SOUL@token=\toks26
+\SOUL@syllgoal=\dimen145
+\SOUL@syllwidth=\dimen146
+\SOUL@charkern=\dimen147
+\SOUL@hyphkern=\dimen148
+\SOUL@dimen=\dimen149
+\SOUL@dimeni=\dimen150
+\SOUL@minus=\count272
+\SOUL@comma=\count273
+\SOUL@apo=\count274
+\SOUL@grave=\count275
+\SOUL@spaceskip=\skip58
+\SOUL@ttwidth=\dimen151
+\SOUL@uldp=\dimen152
+\SOUL@ulht=\dimen153
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)))
+(/usr/local/share/miktex-texmf/tex/latex/tools/multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count276
+\mult@box=\box54
+\multicol@leftmargin=\dimen154
+\c@unbalance=\count277
+\c@collectmore=\count278
+\doublecol@number=\count279
+\multicoltolerance=\count280
+\multicolpretolerance=\count281
+\full@width=\dimen155
+\page@free=\dimen156
+\premulticols=\dimen157
+\postmulticols=\dimen158
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box55
+\last@line=\box56
+\mc@boxedresult=\box57
+\maxbalancingoverflow=\dimen159
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@firstbox=\box60
+\mult@gfirstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count282
+\c@columnbadness=\count283
+\c@finalcolumnbadness=\count284
+\last@try=\dimen160
+\multicolovershoot=\dimen161
+\multicolundershoot=\dimen162
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count285
+)
+(/home/arthur1/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+(/usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks28
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 106.
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics/color.sty
+Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 149.
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics/mathcolor.ltx))
+(/home/arthur1/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/home/arthur1/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/home/arthur1/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/share/miktex-texmf/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+))
+(/home/arthur1/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/home/arthur1/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count289
+) (/usr/local/share/miktex-texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count290
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
+
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count293
+
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count294
+
+(/usr/local/share/miktex-texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen174
+
+(/home/arthur1/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/home/arthur1/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count295
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/share/miktex-texmf/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count296
+\c@Item=\count297
+\c@Hfootnote=\count298
+)
+Package hyperref Info: Driver (default): hdvips.
+
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2024-07-10 v7.01j Hyperref driver for dvips
+
+(/usr/local/share/miktex-texmf/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2024-07-10 v7.01j Hyperref definitions for pdfmark specials
+\pdf@docset=\toks29
+\pdf@box=\box100
+\pdf@toks=\toks30
+\pdf@defaulttoks=\toks31
+\HyField@AnnotCount=\count299
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.s
+ty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/local/share/miktex-texmf/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/home/arthur1/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip70
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
+ (/home/arthur1/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/home/arthur1/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen177
+\captionmargin=\dimen178
+\caption@leftmargin=\dimen179
+\caption@rightmargin=\dimen180
+\caption@width=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count302
+\c@continuedfloat=\count303
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count304
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count305
+)
+(/usr/local/share/miktex-texmf/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+(/home/arthur1/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen185
+\enit@toks=\toks33
+\enit@inbox=\box101
+\enit@count@id=\count306
+\enitdp@description=\count307
+)
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen186
+))
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+)
+(/usr/local/share/miktex-texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count308
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count309
+\leftroot@=\count310
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count311
+\DOTSCASE@=\count312
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box102
+\strutbox@=\box103
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count313
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count314
+\dotsspace@=\muskip18
+\c@parentequation=\count315
+\dspbrk@lvl=\count316
+\tag@help=\toks35
+\row@=\count317
+\column@=\count318
+\maxfields@=\count319
+\andhelp@=\toks36
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks37
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/arthur1/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip75
+\bibsep=\skip76
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count320
+)
+(/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2024-05-08 L3 backend support: dvips
+\l__pdf_internal_box=\box104
+\l__pdf_backend_content_box=\box105
+\l__pdf_backend_model_box=\box106
+\g__pdf_backend_annotation_int=\count321
+\g__pdf_backend_link_int=\count322
+\g__pdf_backend_link_sf_int=\count323
+)
+No file Propuesta.aux.
+\openout1 = `Propuesta.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+\c@maskedRefs=\count324
+(/home/arthur1/.miktex/texmfs/install/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 37.
+\@outlinefile=\write3
+\openout3 = `Propuesta.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(Portada.tex
+
+! LaTeX Error: Cannot determine size of graphic in logos latex.PNG (no Bounding
+Box).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...graphics[width=\textwidth]{logos latex.PNG}
+                                                   \\[2cm] %el noident fue p...
+
+? 
+File: logos latex.PNG Graphic file (type eps)
+<logos latex.PNG>
+
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+ (/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (10.80045pt too wide) in paragraph at lines 19--48
+[]$[]$ $[]$
+ []
+
+
+
+[2]) (TablasContenido.tex
+No file Propuesta.toc.
+\tf@toc=\write4
+\openout4 = `Propuesta.toc'.
+
+
+
+[1])
+No file Propuesta.lof.
+\tf@lof=\write5
+\openout5 = `Propuesta.lof'.
+
+
+
+[2]
+No file Propuesta.lot.
+\tf@lot=\write6
+\openout6 = `Propuesta.lot'.
+
+
+
+[3]
+
+[4] (1Introduccion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Package natbib Warning: Citation `sarmiento2020aplicaciones' on page 1 undefine
+d on input line 14.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+
+[1]) (2MarcoTeorico.tex
+
+Package natbib Warning: Citation `ravi2016deep' on page 2 undefined on input li
+ne 5.
+
+
+Package natbib Warning: Citation `mamoshina2016applications' on page 2 undefine
+d on input line 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+LaTeX Warning: Reference `fig:tip_omic' on page 2 undefined on input line 9.
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/Tip_omic.png (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...idth=0.9\textwidth]{Imagenes/Tip_omic.png}
+                                                  
+? 
+File: Imagenes/Tip_omic.png Graphic file (type eps)
+<Imagenes/Tip_omic.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `institute' on page 2 undefined on input line 
+20.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Package natbib Warning: Citation `davis2017missing' on page 2 undefined on inpu
+t line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Package natbib Warning: Citation `hasin2017multi' on page 2 undefined on input 
+line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Package natbib Warning: Citation `van2018precision' on page 2 undefined on inpu
+t line 26.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+
+[2]
+
+Package natbib Warning: Citation `zhao2014lipidomics' on page 3 undefined on in
+put line 28.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+LaTeX Warning: Reference `tab:List_omic' on page 3 undefined on input line 30.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:Datos_cod' on page 3 undefined on input line 81.
+
+
+
+[3]
+
+Package natbib Warning: Citation `NeuronalNet2014' on page 4 undefined on input
+ line 126.
+
+
+Package natbib Warning: Citation `NeuronalNet2014' on page 4 undefined on input
+ line 126.
+
+
+LaTeX Warning: Reference `fig:Neu_Diag' on page 4 undefined on input line 130.
+
+
+
+[4]
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/Neu_Diag.png (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135      {Imagenes/Neu_Diag.png}
+                                  
+? 
+File: Imagenes/Neu_Diag.png Graphic file (type eps)
+<Imagenes/Neu_Diag.png>
+
+Package natbib Warning: Citation `NeuronalNet2014' on page 5 undefined on input
+ line 136.
+
+
+Package natbib Warning: Citation `NeuronalNet2014' on page 5 undefined on input
+ line 136.
+
+
+LaTeX Warning: Reference `fig:Net_conjunt' on page 5 undefined on input line 14
+0.
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/ConjuntoANN.png (no
+ BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 ...h=.9\textwidth]{Imagenes/ConjuntoANN.png}
+                                                  
+? 
+File: Imagenes/ConjuntoANN.png Graphic file (type eps)
+<Imagenes/ConjuntoANN.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `rosenblatt1958perceptron' on page 5 undefined
+ on input line 150.
+
+
+Package natbib Warning: Citation `dubey2022activation' on page 5 undefined on i
+nput line 154.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+
+[5]
+
+[6]
+
+Package natbib Warning: Citation `rouhiainen2018inteligencia' on page 7 undefin
+ed on input line 168.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+
+LaTeX Warning: Reference `fig:IA_AA_A' on page 7 undefined on input line 181.
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/IA_AA_AP.png (no Bo
+undingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 ...idth=.5\textwidth]{Imagenes/IA_AA_AP.png}
+                                                  
+? 
+File: Imagenes/IA_AA_AP.png Graphic file (type eps)
+<Imagenes/IA_AA_AP.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `mitchell1997does' on page 7 undefined on inpu
+t line 193.
+
+
+Package natbib Warning: Citation `vieira2020main' on page 7 undefined on input 
+line 193.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+
+[7]
+
+Package natbib Warning: Citation `geron2020aprende' on page 8 undefined on inpu
+t line 195.
+
+
+Package natbib Warning: Citation `shinde2018review' on page 8 undefined on inpu
+t line 199.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Package natbib Warning: Citation `schmidhuber2015deep' on page 8 undefined on i
+nput line 201.
+
+
+
+[8]
+
+Package natbib Warning: Citation `lecun1989backpropagation' on page 9 undefined
+ on input line 205.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+LaTeX Warning: Reference `fig:CNN' on page 9 undefined on input line 207.
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/CNN.png (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 ...ics[width=.9\textwidth]{Imagenes/CNN.png}
+                                                  
+? 
+File: Imagenes/CNN.png Graphic file (type eps)
+<Imagenes/CNN.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:Convolution' on page 9 undefined on input line 21
+6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/Convolucion.png (no
+ BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ...h=.5\textwidth]{Imagenes/Convolucion.png}
+                                                  
+? 
+File: Imagenes/Convolucion.png Graphic file (type eps)
+<Imagenes/Convolucion.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:Agrupacion' on page 9 undefined on input line 225
+.
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/Agrupamiento.png (n
+o BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 ...=.7\textwidth]{Imagenes/Agrupamiento.png}
+                                                  
+? 
+File: Imagenes/Agrupamiento.png Graphic file (type eps)
+<Imagenes/Agrupamiento.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+
+LaTeX Warning: Reference `fig:RNN' on page 9 undefined on input line 238.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/RNN.png (no Boundin
+gBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 ...ics[width=.7\textwidth]{Imagenes/RNN.png}
+                                                  
+? 
+File: Imagenes/RNN.png Graphic file (type eps)
+<Imagenes/RNN.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[9]) (3EstadoDelArte.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+
+[10]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Package natbib Warning: Citation `hasin2017multi' on page 12 undefined on input
+ line 16.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+
+[12]
+
+Package natbib Warning: Citation `kim2018data' on page 13 undefined on input li
+ne 18.
+
+
+Package natbib Warning: Citation `krassowski2020state' on page 13 undefined on 
+input line 18.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Package natbib Warning: Citation `reel2021using' on page 13 undefined on input 
+line 34.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+
+[13]
+
+Package natbib Warning: Citation `strimbu2010biomarkers' on page 14 undefined o
+n input line 36.
+
+
+Package natbib Warning: Citation `carlomagno2017diagnostic' on page 14 undefine
+d on input line 36.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Package natbib Warning: Citation `sarmiento2020aplicaciones' on page 14 undefin
+ed on input line 40.
+
+
+Package natbib Warning: Citation `munir2019cancer' on page 14 undefined on inpu
+t line 40.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Package natbib Warning: Citation `pasha2020cardiovascular' on page 14 undefined
+ on input line 42.
+
+
+Package natbib Warning: Citation `wang2017detecting' on page 14 undefined on in
+put line 42.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Package natbib Warning: Citation `erdacs2021neurodegenerative' on page 14 undef
+ined on input line 44.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+
+[14]
+
+Package natbib Warning: Citation `chae2018predicting' on page 15 undefined on i
+nput line 46.
+
+
+LaTeX Warning: Reference `tab:bases_de_datos' on page 15 undefined on input lin
+e 52.
+
+
+Package natbib Warning: Citation `zhang2019deep' on page 15 undefined on input 
+line 52.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Package natbib Warning: Citation `li2024avbae' on page 15 undefined on input li
+ne 120.
+
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Package natbib Warning: Citation `quang2019factornet' on page 16 undefined on i
+nput line 137.
+
+
+Package natbib Warning: Citation `umarov2017recognition' on page 16 undefined o
+n input line 137.
+
+
+Package natbib Warning: Citation `zeng2016convolutional' on page 16 undefined o
+n input line 137.
+
+
+Package natbib Warning: Citation `zhang2017titer' on page 16 undefined on input
+ line 137.
+
+
+Package natbib Warning: Citation `min2017predicting' on page 16 undefined on in
+put line 137.
+
+
+Package natbib Warning: Citation `singh2019predicting' on page 16 undefined on 
+input line 137.
+
+
+Package natbib Warning: Citation `lee2015dna' on page 16 undefined on input lin
+e 137.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Package natbib Warning: Citation `quang2016danq' on page 16 undefined on input 
+line 139.
+
+
+Package natbib Warning: Citation `raza2016recurrent' on page 16 undefined on in
+put line 139.
+
+
+Package natbib Warning: Citation `zhou2015predicting' on page 16 undefined on i
+nput line 139.
+
+
+Package natbib Warning: Citation `cuperus2017deep' on page 16 undefined on inpu
+t line 139.
+
+
+Package natbib Warning: Citation `koh2017denoising' on page 16 undefined on inp
+ut line 139.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Package natbib Warning: Citation `liang2014integrative' on page 16 undefined on
+ input line 141.
+
+
+Package natbib Warning: Citation `yousefi2017predicting' on page 16 undefined o
+n input line 141.
+
+
+Package natbib Warning: Citation `young2017unsupervised' on page 16 undefined o
+n input line 141.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Package natbib Warning: Citation `xu2017deep' on page 16 undefined on input lin
+e 143.
+
+
+Package natbib Warning: Citation `zhang2017sequence' on page 16 undefined on in
+put line 143.
+
+
+Package natbib Warning: Citation `pan2017rna' on page 16 undefined on input lin
+e 143.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+
+[16]
+
+Package natbib Warning: Citation `chaudhary2018deep' on page 17 undefined on in
+put line 145.
+
+
+Package natbib Warning: Citation `yu2018drug' on page 17 undefined on input lin
+e 145.
+
+
+Package natbib Warning: Citation `aliper2016deep' on page 17 undefined on input
+ line 145.
+
+
+Package natbib Warning: Citation `bhat2016deepcancer' on page 17 undefined on i
+nput line 145.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Package natbib Warning: Citation `stahl2017epsilon' on page 17 undefined on inp
+ut line 147.
+
+
+Package natbib Warning: Citation `li2017deep' on page 17 undefined on input lin
+e 147.
+
+
+Package natbib Warning: Citation `spencer2014deep' on page 17 undefined on inpu
+t line 147.
+
+
+Package natbib Warning: Citation `heffernan2015improving' on page 17 undefined 
+on input line 147.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Package natbib Warning: Citation `kulmanov2018deepgo' on page 17 undefined on i
+nput line 149.
+
+
+Package natbib Warning: Citation `wang2017musitedeep' on page 17 undefined on i
+nput line 149.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+LaTeX Warning: Reference `tab:revision' on page 17 undefined on input line 151.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Overfull \hbox (4.23155pt too wide) in paragraph at lines 171--171
+ []|\OT1/cmr/bx/n/6 Predicci^^Son| 
+ []
+
+
+Overfull \hbox (9.79817pt too wide) in paragraph at lines 172--172
+ []|\OT1/cmr/bx/n/6 Clasificaci^^Son| 
+ []
+
+
+Overfull \hbox (10.5023pt too wide) in paragraph at lines 173--173
+ []|\OT1/cmr/bx/n/6 Codificaci^^Son| 
+ []
+
+
+Overfull \hbox (8.06963pt too wide) in paragraph at lines 174--174
+ []|\OT1/cmr/bx/n/6 Preprocesamiento| 
+ []
+
+
+Overfull \hbox (13.93813pt too wide) in paragraph at lines 175--175
+ []|\OT1/cmr/bx/n/6 Entrenamiento 
+ []
+
+
+Package natbib Warning: Citation `yu2019architectures' on page 17 undefined on 
+input line 189.
+
+
+Package natbib Warning: Citation `withnell2021xomivae' on page 17 undefined on 
+input line 199.
+
+
+Package natbib Warning: Citation `franco2021performance' on page 17 undefined o
+n input line 209.
+
+
+Package natbib Warning: Citation `poirion2021deepprog' on page 17 undefined on 
+input line 219.
+
+
+Package natbib Warning: Citation `quang2019factornet' on page 17 undefined on i
+nput line 229.
+
+
+Package natbib Warning: Citation `albaradei2021machine' on page 17 undefined on
+ input line 239.
+
+
+Package natbib Warning: Citation `chai2021integrating' on page 17 undefined on 
+input line 249.
+
+
+Package natbib Warning: Citation `leng2022benchmark' on page 17 undefined on in
+put line 259.
+
+
+Package natbib Warning: Citation `huang2023deep' on page 17 undefined on input 
+line 269.
+
+
+Package natbib Warning: Citation `chuang2021convolutional' on page 17 undefined
+ on input line 279.
+
+
+Package natbib Warning: Citation `ma2018omicsmapnet' on page 17 undefined on in
+put line 289.
+
+
+Package natbib Warning: Citation `talukder2021interpretation' on page 17 undefi
+ned on input line 299.
+
+
+Package natbib Warning: Citation `eraslan2019deep' on page 17 undefined on inpu
+t line 309.
+
+
+Package natbib Warning: Citation `erfanian2023deep' on page 17 undefined on inp
+ut line 319.
+
+
+Package natbib Warning: Citation `li2020deep' on page 17 undefined on input lin
+e 329.
+
+
+Package natbib Warning: Citation `gong2023multi' on page 17 undefined on input 
+line 339.
+
+
+Package natbib Warning: Citation `li2022machine' on page 17 undefined on input 
+line 349.
+
+
+Package natbib Warning: Citation `mathema2023deep' on page 17 undefined on inpu
+t line 359.
+
+
+Overfull \hbox (38.57503pt too wide) in paragraph at lines 158--364
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:base_datos_cancer' on page 17 undefined on input 
+line 421.
+
+
+Package natbib Warning: Citation `li2022identification' on page 17 undefined on
+ input line 421.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+
+ []
+
+
+LaTeX Warning: Reference `tab:RevisionCancer' on page 17 undefined on input lin
+e 424.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+
+Overfull \hbox (6.65779pt too wide) in paragraph at lines 443--443
+ []|\OT1/cmr/bx/n/8 Transcript^^Somi- 
+ []
+
+
+Package natbib Warning: Citation `huang2023deep' on page 17 undefined on input 
+line 457.
+
+
+Package natbib Warning: Citation `chuang2021convolutional' on page 17 undefined
+ on input line 467.
+
+
+Package natbib Warning: Citation `franco2021performance' on page 17 undefined o
+n input line 477.
+
+
+Package natbib Warning: Citation `chuang2021convolutional' on page 17 undefined
+ on input line 487.
+
+
+Package natbib Warning: Citation `withnell2021xomivae' on page 17 undefined on 
+input line 497.
+
+
+Package natbib Warning: Citation `chuang2021convolutional' on page 17 undefined
+ on input line 507.
+
+
+Package natbib Warning: Citation `zhang2019deep' on page 17 undefined on input 
+line 517.
+
+
+Package natbib Warning: Citation `tong2020deep' on page 17 undefined on input l
+ine 527.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `shi2016benchmarking' on page 17 undefined on 
+input line 535.
+
+
+Package natbib Warning: Citation `liu2020application' on page 17 undefined on i
+nput line 535.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+
+ []
+
+
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+
+Package natbib Warning: Citation `chetlur2014cudnn' on page 18 undefined on inp
+ut line 539.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+
+
+[18]
+
+Package natbib Warning: Citation `huang2015microsoft' on page 19 undefined on i
+nput line 541.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+
+
+[19]) (4PropuestaDeTesis.tex
+Underfull \hbox (badness 10000) in paragraph at lines 543--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+) (5Cronograma.tex
+
+! LaTeX Error: Cannot determine size of graphic in Imagenes/Cronograma.png (no 
+BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...width=1\textwidth]{Imagenes/Cronograma.png}
+                                                  
+? 
+File: Imagenes/Cronograma.png Graphic file (type eps)
+<Imagenes/Cronograma.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+
+[21]
+No file Propuesta.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+
+
+[22] (Propuesta.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Propuesta.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Propuesta.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  E58082E715DBD150431F591EB935C07C;4935.
+ ) 
+Here is how much of TeX's memory you used:
+ 14900 strings out of 473901
+ 238129 string characters out of 5733616
+ 1982954 words of memory out of 5000000
+ 37553 multiletter control sequences out of 15000+600000
+ 567107 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,4604b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on Propuesta.dvi (28 pages, 96068 bytes).
